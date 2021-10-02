@@ -1,6 +1,6 @@
 # React To do App with a Form
 
-> React APP that contains a Form with multiple steps and confirmation + a TO DO list functionality. Frontend only, no API. Uses Material UI
+> React APP that contains a form with multiple steps and confirmation. After confirmation we are redirected to the another view where we can add different items in a To do list. We are also able to Edit or Delete each item. Frontend only, no API. Uses Material UI.
 
 ## Quick Start
 
