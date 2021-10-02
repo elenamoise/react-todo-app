@@ -1,6 +1,6 @@
-# React Step Form
+# React To do App with a Form
 
-> Form with multiple steps and confirmation. Frontend only, no API. Uses Material UI
+> React APP that contains a Form with multiple steps and confirmation + a TO DO list functionality. Frontend only, no API. Uses Material UI
 
 ## Quick Start
 
